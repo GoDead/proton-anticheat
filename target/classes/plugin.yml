@@ -1,0 +1,12 @@
+name: Proton
+version: ALPHA
+author: DrHam
+depend:
+  - ProtocolLib
+description: Proton AntiCheat
+main: eu.drham.Proton
+commands:
+  ping:
+    usage: /<command>
+  acreport:
+    usage: /<command> <player>

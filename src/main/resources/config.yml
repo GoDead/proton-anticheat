@@ -1,0 +1,13 @@
+messages:
+  player:
+    kick: "Has sido echado por el AntiCheat"
+    ping: "Ping demasiado alto"
+    report:
+      wrong: "/acreport <jugador>"
+      maybe: "Bien!"
+      notsure: "Puede que no sea hacker"
+      notonline: "No esta online"
+#ac.staff
+  staff:
+    kick: " echado por el AntiCheat -(%VL%). La función de banear no está activa"
+    report: "%player% (VL: %VL%) con %ping%ms reportado "
